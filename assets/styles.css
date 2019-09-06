@@ -1,0 +1,15 @@
+.bg {
+  background-color: gray;
+}
+
+.navbar {
+  margin-bottom: 50px;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+img.active {
+  border: 1px purple solid;
+}
